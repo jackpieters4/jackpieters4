@@ -7,12 +7,9 @@ My background combines **biomedical sciences, bioinformatics, and artificial int
 - **MSc Bioinformatics & Systems Biology (VU & UvA)**  
 - **BSc Liberal Arts & Sciences (AUC)**
 - **Minors in Artificial Intelligence and Neuroscience (UvA)** 
-- Research experience across **oncology, imaging, and pharmacology**, including projects on:  
-  - Building pipelines for biomedical image analysis.  
+- Research experience across **oncology and pharmacology**, including projects on:  
   - Risk signature development from RNA-seq data.  
   - Predictive modeling of blood–brain barrier penetration for glioblastoma.
-  - Breast cancer subtype prediction using random forests on copy number data
-  - Training CNNs for cancer detection in histopathology.    
 
 ## Selected Projects
 - [Image Processing for Quantitative Data Analysis](https://github.com/jackpieters4/Image-Processing-Quantitative-Data-Analysis)  
