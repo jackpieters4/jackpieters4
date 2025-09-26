@@ -1,11 +1,11 @@
 # Hi, I'm Jack 👋
 
-I am a bioinformatician and systems biologist with a focus on **oncology**.  
-My background combines **biomedical sciences, bioinformatics, and artificial intelligence**, and I enjoy working at the interface of **data-driven methods** and **clinical research**.
+I am a bioinformatician and systems biologist with a current focus on **oncology**.  
+My background combines **biomedical sciences, bioinformatics, and artificial intelligence**, and I enjoy working at the interface of **data-driven methods** and **translational research**.
 
 ## Academic & Research Background
 - **MSc Bioinformatics & Systems Biology (VU & UvA)**  
-- **BSc Liberal Arts & Sciences (AUC, honors)**
+- **BSc Liberal Arts & Sciences (AUC)**
 - **Minors in Artificial Intelligence and Neuroscience (UvA)** 
 - Research experience across **oncology, imaging, and pharmacology**, including projects on:  
   - Building pipelines for biomedical image analysis.  
