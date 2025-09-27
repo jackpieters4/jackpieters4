@@ -12,14 +12,14 @@ My background combines **biomedical sciences, bioinformatics, and artificial int
   - Predictive modeling of blood–brain barrier penetration for glioblastoma.
 
 ## Selected Projects
-- [Image Processing for Quantitative Data Analysis](https://github.com/jackpieters4/Image-Processing-Quantitative-Data-Analysis)  
-  Segmentation and quantification of microscopy images. *My role: pipeline development, feature extraction, evaluation.*
-- [Minor Research Project: CNS-MPO Prediction](https://github.com/jackpieters4/minor_research_project_BSB)  
-  Python tool for molecular property prediction. *My role: entire project*
-- [Breast Cancer Subtype Classification](https://github.com/jackpieters4/Bioinformatics-For-Translational-Medicine)  
-  Machine learning for transcriptomic profiles. *My role: model training, performance assessment.*
-- [Scientific Machine Learning](https://github.com/jackpieters4/Scientific-Machine-Learning)  
-  Coursework project applying clustering and classification techniques on biomedical data. *My role: model training.*
+- [Segmentation and quantification of microscopy images](https://github.com/jackpieters4/Image-Processing-Quantitative-Data-Analysis)  
+  MSc course Image Processing and Quantitative Data Analysis. *My role: pipeline development, feature extraction, evaluation.*
+- [Python tool for molecular property (CNS-MPO) Prediction](https://github.com/jackpieters4/minor_research_project_BSB)  
+  MSc Research Project . *My role: entire project*
+- [Breast cancer subtype classification on transcriptomic profiles](https://github.com/jackpieters4/Bioinformatics-For-Translational-Medicine)  
+  MSc course Bioinformatics for Translational Medicine. *My role: model training, performance assessment.*
+- [Random Forest model for odor based on chemical structure](https://github.com/jackpieters4/Scientific-Machine-Learning)  
+  MSc course Scientific Machine Learning. *My role: model training.*
 
 ## Skills
 - **Programming & ML**: Python, R, TensorFlow/Keras, Scikit-learn, SQL (basic)  
