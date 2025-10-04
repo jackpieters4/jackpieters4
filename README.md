@@ -32,7 +32,7 @@ My background combines **biomedical sciences, bioinformatics, and artificial int
   Journal of Alzheimer’s Disease, 98(2), 433–443. DOI: [10.3233/JAD-221053](https://doi.org/10.3233/JAD-221053)
 
 ## Beyond Bioinformatics
-I also co-founded a creative collective in Amsterdam, organizing cultural events and producing music. This has strengthened my skills in project management, collaboration, and design thinking.
+I also co-founded a creative collective in Amsterdam called Kurashi, organizing cultural events and producing music. This has strengthened my skills in project management, collaboration, and design thinking.
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/jack-pieters-7b3a2b1a0)  
